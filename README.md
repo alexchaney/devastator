@@ -1,4 +1,4 @@
-# devastator
+# Devastator
 Classic TI Game.  Needs to be modernized and remixed
 
 David R. Arnold 
